@@ -1,0 +1,14 @@
+{
+  "name": "code_for_bwi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "solver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "console-grid": "^1.0.16"
+  }
+}

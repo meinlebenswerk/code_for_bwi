@@ -1,0 +1,14 @@
+{
+    "transports": [
+        { 
+            "name": "transporter0",
+            "driver_weight": 72400,
+            "capacity": 1100000
+        },
+        { 
+            "name": "transporter1",
+            "driver_weight": 85700,
+            "capacity": 1100000
+        }
+    ]
+}
